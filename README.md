@@ -57,13 +57,12 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yourusername/project-name.git
+   git clone [https://github.com/yourusername/project-name.git](https://github.com/yashlohade21/PPA-Hiring-Assignment.git)
 
 2. Navigate into the project directory
 
 3. Install dependencies
-  ```sh
-  npm install
+     npm install
 
 
 ### Usage
