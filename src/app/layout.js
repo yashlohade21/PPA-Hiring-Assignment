@@ -1,5 +1,15 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Header from "./Home/Header";
+import Footer from "./Home/Footer";
+import HeroSection from "./Home/HeroSection";
+import ClientLogo from "./Home/Client/ClientLogo";
+import Pixelgrade from "./Home/Pixelgrade";
+import LocalBusiness from "./Home/LocalBusiness";
+import SecondPixel from "./Home/SecondPixel";
+import MeetSmith from "./Home/MeetSmith";
+import Marketing from "./Home/Marketing";
+import FontBoldLib from "./Home/FontBoldLib";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +21,19 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <Header />
+        <HeroSection />
+        <ClientLogo />
+        <Pixelgrade />
+        <LocalBusiness />
+        <SecondPixel />
+        <MeetSmith />
+        <Marketing />
+        <FontBoldLib />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }

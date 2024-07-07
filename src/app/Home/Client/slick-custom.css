@@ -1,0 +1,13 @@
+/* slick-custom.css */
+
+.hiring-company .slick-prev, .hiring-company .slick-next {
+  height: 0px !important; 
+  width: 0px !important;
+  display: none !important;
+}
+
+#slick-component{
+  display: flex !important;
+  justify-content:space-around !important;
+  overflow: hidden !important;
+}
