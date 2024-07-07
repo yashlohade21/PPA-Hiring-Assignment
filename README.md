@@ -63,7 +63,9 @@ Make sure you have Node.js and npm installed.
 
 3. Install dependencies
   ```sh
-    npm install
+  npm install
+
+
 ### Usage
 1. Start the development server
   ```sh 
