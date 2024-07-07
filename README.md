@@ -14,6 +14,67 @@ pnpm dev
 bun dev
 ```
 
+# Project Name
+
+A brief description of your project.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Project Name is a [brief description of your project]. It [describe its purpose and what problem it solves].
+
+## Features
+
+- Responsive header component with hamburger menu
+- Dynamic theme toggling between light and dark modes
+- Count-up animations for various statistics
+
+## Technologies Used
+
+- React.js
+- Next.js
+- Tailwind CSS
+- Zustand (for state management)
+
+## Installation
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/yourusername/project-name.git
+
+2. Navigate into the project directory
+
+3. Install dependencies
+  ```sh
+    npm install
+### Usage
+1. Start the development server
+  ```sh 
+  npm run dev
+2. Open your browser and navigate to http://localhost:3000 to view the application.
+
+Contact
+Your Name - [Your Website](https://yashlohade21.github.io/portfolio)
+
+Project Link:[ https://github.com/yourusername/project-name](https://pprassignment.vercel.app/)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
@@ -31,6 +92,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://pprassignment.vercel.app/) from the creators of Next.js.
