@@ -67,8 +67,7 @@ Make sure you have Node.js and npm installed.
 
 ### Usage
 1. Start the development server
-  ```sh 
-  npm run dev
+   npm run dev
 2. Open your browser and navigate to http://localhost:3000 to view the application.
 
 Contact
