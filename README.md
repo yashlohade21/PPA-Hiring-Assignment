@@ -71,9 +71,9 @@ Make sure you have Node.js and npm installed.
 2. Open your browser and navigate to http://localhost:3000 to view the application.
 
 Contact
-Your Name - [Your Website](https://yashlohade21.github.io/portfolio)
+Your Name - [https://yashlohade21.github.io/portfolio](https://yashlohade21.github.io/portfolio)
 
-Project Link:[ https://github.com/yourusername/project-name](https://pprassignment.vercel.app/)
+Project Link:[https://pprassignment.vercel.app](https://pprassignment.vercel.app/)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
