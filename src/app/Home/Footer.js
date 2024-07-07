@@ -5,8 +5,8 @@ import React from 'react';
 import Image from 'next/image';
 import Instagram from '../assets/instagram.jpg';
 import Twitter from '../assets/twitter.png';
-import YouTube from '../assets/youTube.jpg';
-import useStore from './store';
+import YouTube from '../assets/youtube.jpg';
+import useStore from './Store';
 
 const Footer = () => {
   const { theme } = useStore();
